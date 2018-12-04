@@ -4,6 +4,14 @@
    * **chmod a+rx hello_world**
    * **chmod a+xr hello_world.sh**
    
+      
 3. To run the script, send **./script_filename** to the screen. For instance: 
     * **./hello_world**
     * **./hello_world.sh**
+    
+4. Sample outputs:
+   * **[netlab@netlab ~] $ ./hello_world**
+   * **Hello World**
+   * **[netlab@netlab ~] $ ./hello_world.sh**
+   * **Hello World**
+
