@@ -1,0 +1,4 @@
+trap 'echo -ne "\033]2;Pri Jumpbox\007"' 2
+echo -ne "\033]2;Host_A\007"
+ssh -p 22 netlab@10.10.10.10
+echo -ne "\033]2;Pri Jumpbox\007"
