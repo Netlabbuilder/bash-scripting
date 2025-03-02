@@ -1,4 +1,4 @@
-1. The simple scripts to print `Hello World` and `Hello World from` + `$USER` with `$USER` is the username of logged-in user
+1. The simple scripts to print `Hello World` and `Hello World from` + `$USER` with `$USER` is the username of current logged-in user
 
 2. Before running the script, we need to turn the executable (**x**) bit for the owner to run the script with following command: For instance:
 ```
